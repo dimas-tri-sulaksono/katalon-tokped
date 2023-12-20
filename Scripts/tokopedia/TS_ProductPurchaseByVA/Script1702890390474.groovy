@@ -47,6 +47,7 @@ Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 //Aquos SH-04L
 //Mobile.swipe(708, 2951, 708, 1988)
+
 //Samsung A52s
 Mobile.swipe(526, 2152, 526, 700)
 

@@ -47,10 +47,13 @@ Mobile.delay(5, FailureHandling.STOP_ON_FAILURE)
 
 //Aquos SH-04L
 //Mobile.swipe(708, 2951, 708, 1988)
+
 //Samsung A52s
 Mobile.swipe(526, 2152, 526, 700)
 
 Mobile.tap(findTestObject('tokopedia/productPurchase/09_Bayar'), 0)
+
+//belum ada step untuk input pin gopay
 
 Mobile.tap(findTestObject('tokopedia/productPurchase/10_LihatCaraPembayaran'), 0)
 
